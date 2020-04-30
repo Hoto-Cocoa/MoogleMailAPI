@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/Hoto-Cocoa/CocoaCafeBot#readme",
   "dependencies": {
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jsdom": "^15.2.1",
     "winston": "^3.1.0",
     "ws": "^6.1.2"
